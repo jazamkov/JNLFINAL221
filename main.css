@@ -1,0 +1,80 @@
+body {
+  max-width: 1200xpx;
+  margin: 15px;
+  padding: 10px;
+  text-align: left;
+}
+
+.banner {
+  color: #c20017;
+  background-color:black;
+  font-size: 25px;
+  font-style: italic;
+  font-variant: small-caps;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  text-align: center;
+}
+img{
+  max-width: 600px;
+  max-height: 400px;
+  width:100%;
+  padding-bottom: 50px;
+}
+
+.Deck{
+  font-size: 18px;
+  text-align: left;
+  color:#C0C0C0;
+  margin-bottom:10px;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 15px;
+}
+
+.source-info{
+  background-color: black;
+  font-size: 16px;
+  margin: 0px 0px 15px 0px;
+  border: black solid 2px;
+  padding: 10px;
+  font-color:red;
+}
+
+.First-image{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.main-grahics{
+  background-color:white;
+  padding-top:10px;
+  padding-bottom:10px;
+  width:100%;
+}
+
+.lead-caption{
+  margin: 10px 0px;
+  line-height: 25px;
+  color:#c20017;
+}
+
+.story{
+    background-color: White;
+    font-size: 18px;
+    margin: 5px 0px;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Unna', serif;
+    font-size: 25px;
+}
+
+.page-footer {
+  color: #c20017;
+  background-color:black;
+  font-size: 18px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+}
+
